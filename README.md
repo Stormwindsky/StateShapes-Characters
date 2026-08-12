@@ -1,2 +1,2 @@
-# StateShapes-Characters
+# StateShapes Characters
 coming soon :)
